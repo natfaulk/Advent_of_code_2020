@@ -1,7 +1,7 @@
 import loader
 
 if __name__ == '__main__':
-  data = loader.loadIn('day1.in')
+  data = loader.loadInLines('day1.in')
 
   data_clean=[]
   for i in data:

@@ -1,7 +1,7 @@
 import loader
 
 if __name__ == '__main__':
-  data_raw=loader.loadIn('day2.in')
+  data_raw=loader.loadInLines('day2.in')
 
   count=0
   count2=0

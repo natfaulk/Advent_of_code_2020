@@ -15,7 +15,7 @@ def checkSlope(_data, _right, _down):
   return count
 
 if __name__ == '__main__':
-  data=loader.loadIn('day3.in')
+  data=loader.loadInLines('day3.in')
 
   # PART 1
   print(checkSlope(data,3,1))
